@@ -1,0 +1,10 @@
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\bin\Debug\ZarOyunu37.exe.config
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\bin\Debug\ZarOyunu37.exe
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\bin\Debug\ZarOyunu37.pdb
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.csprojAssemblyReference.cache
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.ZarOyunu.resources
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.Properties.Resources.resources
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.csproj.GenerateResource.cache
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.exe
+C:\Users\ABRA\source\repos\ZarOyunu37\ZarOyunu37\obj\Debug\ZarOyunu37.pdb
